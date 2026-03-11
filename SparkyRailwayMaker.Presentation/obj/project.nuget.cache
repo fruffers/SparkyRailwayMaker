@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CrZXEZs5iUo=",
+  "success": true,
+  "projectFilePath": "F:\\Code\\SparkyRailwayMaker\\SparkyRailwayMaker.Presentation\\SparkyRailwayMaker.Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bilou\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
