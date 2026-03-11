@@ -1,3 +1,3 @@
 # Sparky Railway Maker
 
-![Titlescreen](Documents/Images/titlescreen.jpg)
+![Titlescreen](./Documents/Images/title.jpg)
